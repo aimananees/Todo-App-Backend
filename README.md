@@ -15,8 +15,8 @@ Our tasks resource will use HTTP methods as follows:
 
 #### We can define a task as having the following fields:
 
-id: unique identifier for tasks (Numeric type).
-title: short task description (String type).
-description: long task description (Text type).
-done: task completion state (Boolean type).
+id: unique identifier for tasks (Numeric type).<br>
+title: short task description (String type).<br>
+description: long task description (Text type).<br>
+done: task completion state (Boolean type).<br>
 
