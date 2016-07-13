@@ -13,7 +13,7 @@ Our tasks resource will use HTTP methods as follows:
 | DELETE        | http://[hostname]/todo/api/v1.0/tasks/[task_id]       | Delete a task           |
 
 
-We can define a task as having the following fields:
+#### We can define a task as having the following fields:
 
 id: unique identifier for tasks (Numeric type).
 title: short task description (String type).
