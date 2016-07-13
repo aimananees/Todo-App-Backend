@@ -1,6 +1,6 @@
 # Todo-App-Backend
 
-This the backend built for Todo App with Flask framework.
+This is the backend built for Todo App with Flask framework.
 
 Our tasks resource will use HTTP methods as follows:
 
@@ -15,8 +15,8 @@ Our tasks resource will use HTTP methods as follows:
 
 We can define a task as having the following fields:
 
-id: unique identifier for tasks. Numeric type.
-title: short task description. String type.
-description: long task description. Text type.
-done: task completion state. Boolean type.
+id: unique identifier for tasks (Numeric type).
+title: short task description (String type).
+description: long task description (Text type).
+done: task completion state (Boolean type).
 
