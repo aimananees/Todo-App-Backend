@@ -5,7 +5,7 @@ This is the backend built for Todo App with Flask framework.
 Our tasks resource will use HTTP methods as follows:
 
 | HTTP Method   | URI                                                   |Action                   |
-| ------------- |:-----------------------------------------------------:| -----------------------:|
+|:------------- |:------------------------------------------------------|:------------------------|
 | GET           | http://[hostname]/todo/api/v1.0/tasks                 | Retrieve list of tasks  |
 | GET           | http://[hostname]/todo/api/v1.0/tasks/[task_id]       | Retrieve a task         |
 | POST          | http://[hostname]/todo/api/v1.0/tasks                 | Create a new task       |
